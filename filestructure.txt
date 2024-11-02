@@ -1,0 +1,14 @@
+|-- favico.ico
+|-- file_handler.py
+|-- server.py
+|-- shared_files
+    |-- 6743779699.pdf
+    |-- jaai cl.docx
+    |-- Justice League_ Doom 2012 1080p BluRay DD  5.1 x265-edge2020.torrent
+    |-- PrismLauncher-Windows-MSVC-Setup-9.1.exe
+|-- templates
+    |-- index.html
+|-- utils.py
+|-- __pycache__
+    |-- file_handler.cpython-312.pyc
+    |-- utils.cpython-312.pyc
